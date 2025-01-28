@@ -112,7 +112,7 @@ Our mission is to provide high-quality, scalable, and secure solutions tailored 
 
 <div align="center">
  
-  <img src="https://raw.githubusercontent.com/Beenu-Soft-Solution/.github/main/profile/logo.jpg" alt="Welcome to Beenu Solution">
+  <img src="https://raw.githubusercontent.com/Beenu-Soft-Solution/.github/main/profile/logo.png" alt="Welcome to Beenu Solution">
  
 
 ### *Empowering Your Digital Journey*
