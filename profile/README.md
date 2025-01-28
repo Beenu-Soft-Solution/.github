@@ -1,6 +1,6 @@
 <div align="center">
 
-![Welcome to Beenu Solution](https://raw.githubusercontent.com/Beenu-Soft-Solution/.github/main/profile/banner.jpg)
+![Welcome to Beenu Solution](https://raw.githubusercontent.com/Beenu-Soft-Solution/.github/main/profile/banner.png)
 
 # <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> Beenu Solution
 
@@ -112,7 +112,7 @@ Our mission is to provide high-quality, scalable, and secure solutions tailored 
 
 <div align="center">
  
-  <img src="https://raw.githubusercontent.com/Beenu-Soft-Solution/.github/main/profile/logo.png" alt="Welcome to Beenu Solution">
+  <img src="https://raw.githubusercontent.com/Beenu-Soft-Solution/.github/main/profile/logo.png" alt="Welcome to Beenu Solution"  style="width: 50%;">
  
 
 ### *Empowering Your Digital Journey*
