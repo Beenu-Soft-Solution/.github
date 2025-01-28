@@ -2,7 +2,7 @@
 
 ![Welcome to Beenu Solution](https://raw.githubusercontent.com/Beenu-Soft-Solution/.github/main/profile/banner.jpg)
 
-# 🚀 Beenu Soft Solution
+# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> Beenu Solution
 
 > ### *"Innovating Tomorrow, Today"*
 > ### *Your Partner in Digital Success*
@@ -103,73 +103,17 @@ Our mission is to provide high-quality, scalable, and secure solutions tailored 
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
 
-## 🏆 Our Projects Showcase
-
-### 📱 Mobile Applications
-#### Delivery App Platform
-- **Description:** A comprehensive delivery management system
-- **Technologies:** React Native, Node.js, MongoDB
-- **Features:**
-  - Real-time order tracking
-  - Driver management system
-  - Customer rating system
-  - Advanced route optimization
-
-#### Health & Fitness Tracker
-- **Description:** Personal wellness monitoring application
-- **Technologies:** Flutter, Firebase
-- **Features:**
-  - Workout tracking
-  - Nutrition planning
-  - Progress analytics
-  - Social sharing capabilities
-
-### 💻 Web Applications
-#### E-Learning Management System
-- **Description:** Complete online education platform
-- **Technologies:** React.js, Django, PostgreSQL
-- **Features:**
-  - Live class sessions
-  - Course management
-  - Student progress tracking
-  - Interactive assessments
-
-#### Enterprise Resource Planning System
-- **Description:** Custom ERP solution for manufacturing
-- **Technologies:** Angular, Java Spring Boot, Oracle
-- **Features:**
-  - Inventory management
-  - Production planning
-  - Human resource management
-  - Financial reporting
-
-### 🛍️ E-Commerce Solutions
-#### Multi-vendor Marketplace
-- **Description:** Online marketplace platform
-- **Technologies:** Vue.js, Laravel, MySQL
-- **Features:**
-  - Vendor management
-  - Product catalog
-  - Payment integration
-  - Order fulfillment system
-
-#### Restaurant Ordering System
-- **Description:** Digital menu and ordering platform
-- **Technologies:** Next.js, Express.js, MongoDB
-- **Features:**
-  - QR code menu scanning
-  - Table reservation
-  - Online ordering
-  - Kitchen management system
-
 ## 📞 Contact Us
-- 📧 Email: [contact@beenusolution.com]
+- 📧 Email: [info@beenusolution.com]
 - 🌐 Website: [www.beenusolution.com]
 - 📱 Social Media: [LinkedIn] | [Twitter] | [Facebook]
 
 ---
 
 <div align="center">
+ 
+  <img src="https://raw.githubusercontent.com/Beenu-Soft-Solution/.github/main/profile/logo.jpg" alt="Welcome to Beenu Solution">
+ 
 
 ### *Empowering Your Digital Journey*
 
